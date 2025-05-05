@@ -7,8 +7,8 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
- 🚀 **Founder @ NextGen Evolvics** 
-- 💼 **Senior Software Engineer @ Purgesoft**
+- 🚀 **Founder @ NextGen Evolvics** 
+- 💼 **Ex - Senior Software Engineer @ Purgesoft**
 - 🥇 **Gold Medalist - MCA** | 🎓 **IT Topper - BCA (Awarded & Scholarship)**  
 - 🧠 **DSA Enthusiast** – Solved **500+ problems** on *LeetCode, GFG, HackerRank*
 - 🧰 **Tech Stack:** Python, Flask, Django, Microservices, REST APIs, PHP, JS, HTML, CSS
