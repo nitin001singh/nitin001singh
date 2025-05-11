@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-- 🚀 **Founder @ [NextGen Evolvics](https://nextgenevolvics.com)** 
+- 🚀 **Co-Founder & CTO @ [NextGen Evolvics](https://nextgenevolvics.com)** 
 - 💼 **Ex - Senior Software Engineer @ [Purgesoft](https://purgesoft.com/)** 
 - 🥇 **MCA Topper** | 🎓 **IT Topper - BCA (Awarded & Scholarship)**  
 - 🧠 **DSA Enthusiast** – Solved **500+ problems** on *LeetCode, GFG, HackerRank*
